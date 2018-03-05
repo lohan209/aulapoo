@@ -1,5 +1,2 @@
 # aulapoo
-Fucking POO CLASS
-
-
-i'm here doing something that I don't know why.
+Arrumando READ ME para apresentação para a profª.
